@@ -1,4 +1,4 @@
-# Awesome-Links
+# Links I love <3
 Lots of links I tend to check and share.
 
 ## WebGL
