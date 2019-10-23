@@ -1,11 +1,6 @@
 # Awesome-Links
 Lots of links I tend to check and share.
 
-## To check out
-- [Type of movement Constrains](https://zalo.github.io/blog/constraints/) - Article about different ways to constrain movement 
-- [Fruit Ninja Swipe Effect](https://github.com/mattdesl/lwjgl-basics/wiki/LibGDX-Finger-Swipe#5-anti-aliasing-and-stroke-effects) - Capturing input, smoothing curve, AA and optimizations 
-- [Building a Generator](http://www.galaxykate.com/blog/generator.html) - Overview of techniques to build generators. 
-
 ## WebGL
 - [WebGL Explained](https://chriscourses.com/blog/beginners-guide-to-webgl) - What is webGL, how is it faster and practical uses. 
 - [Case Study: Red Bull's Airdrop](https://medium.com/epicagency/airdrop-technical-casestudy-bafabf2f8c1e) - Lot's of technical hoop jumping and problem solving to get an game into Facebook Instand Gamge. Sharing WebGL context (pixi & threeJS), inifinite worlds, post-processing mist.
