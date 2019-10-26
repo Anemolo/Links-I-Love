@@ -12,7 +12,7 @@ Lots of links I tend to check and share.
 - [Case Study: Google Could Inf Experience](https://medium.com/@hellomondaycom/how-we-built-the-google-cloud-infrastructure-webgl-experience-dec3ce7cd209) - Showcases a lot of considerations involved in a webGL project.  And how they solved them.
     - "When setting up post-processing shaders in Three.js, it’s done by setting up a new offscreen render target making the browsers built in anti aliasing unavailable."
 - [Intro to Post-processing effects](https://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/) - Good intro to postprocessing if you already have a basic grasp on shaders. Goes from 0 to 100 in 1.3 seconds.
-
+- [Extending ThreeJS Built-in Materials](https://medium.com/@pailhead011/extending-three-js-materials-with-glsl-78ea7bbb9270) -A good check if you are looking to do somethign custom with the built-in materials.
 ## Creative Coding
 
 - [AaronPenne's code](https://github.com/aaronpenne/generative_art) - Simple and awesome Processing/phyton artwork with code and images. Good for learning if you are able to read phyton. 
