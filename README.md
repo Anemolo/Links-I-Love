@@ -24,3 +24,8 @@ Lots of links I tend to check and share.
 
 ## Computer Graphics
 -  [Computing normals for distorted vertices](https://observablehq.com/@k9/calculating-normals-for-distorted-vertices) - Lots of math jargon that went over my head. With the code at the bottom makes more sense. 
+
+
+
+# More List of links I love 
+- [Matt's Graphic-Resources] - Game/gaphics. Lot's of old and broken links, lot's of amazing links
