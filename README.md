@@ -19,7 +19,8 @@ Lots of links I tend to check and share.
 - [Kjetil's Generated Space](https://generated.space/) - Amazing sketches, all open source. One of my favorite generative artists.   
 
 ## Math & Algorithms
-- [Sublucid Geometry](https://zalo.github.io/) - Explains "geometry" algorithms. Visuals, and clear.
+- [Sublucid Geometry](https://zalo.github.io/) - Explains "geometry" algorithms. Good visuals, and clear writing
+- [Mathematical notation with JS comparations] - Don't fear academic papers / math notation anymore. 
 
 ## Computer Graphics
 -  [Computing normals for distorted vertices](https://observablehq.com/@k9/calculating-normals-for-distorted-vertices) - Lots of math jargon that went over my head. With the code at the bottom makes more sense. 
