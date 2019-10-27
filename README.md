@@ -5,6 +5,7 @@ Lots of links I tend to check and share.
 - [WebGL Explained](https://chriscourses.com/blog/beginners-guide-to-webgl) - What is webGL, how is it faster and practical uses. 
 - [Case Study: Red Bull's Airdrop](https://medium.com/epicagency/airdrop-technical-casestudy-bafabf2f8c1e) - Lot's of technical hoop jumping and problem solving to get an game into Facebook Instand Gamge. Sharing WebGL context (pixi & threeJS), inifinite worlds, post-processing mist.
     - " In many cases, overlaying HTML/CSS on top of canvas will result in performance drops due how the browser handles the compositing phase. "
+- [Frame rate independent animation](https://webglfundamentals.org/webgl/lessons/webgl-animation.html) - Frame rate independence is a must for any webGL application.
 
 ## ThreeJS
 - [Intro to vertex shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) and [Three.Bas](https://github.com/zadvorsky/three.bas) - Fast pased series of articles. Basics of WebGL, vertex shaders. And going further and beyond with Three.Bas 
