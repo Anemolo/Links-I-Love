@@ -5,6 +5,7 @@
 - [Building a Generator](http://www.galaxykate.com/blog/generator.html) - Overview of techniques to build generators. 
 - [Inconvergent](https://inconvergent.net/#writing) - Generative art writing
 - [Tyler Hoobs creative coding "essays"](https://tylerxhobbs.com/essays) - Interesting writeups about generative art. Without a focus on code.
+- [What are SMAA's search and area images](https://github.com/vanruesc/postprocessing/issues/74) 
 # Things I'm looking to research
 - Difference between pixel vs fragment
 - Draw calls
