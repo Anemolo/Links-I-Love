@@ -7,6 +7,9 @@
 - [Tyler Hoobs creative coding "essays"](https://tylerxhobbs.com/essays) - Interesting writeups about generative art. Without a focus on code.
 - [Bezier Curves and type design] - Not webDev but larning good practices for bezier curves sounds important.
 - [What are SMAA's search and area images](https://github.com/vanruesc/postprocessing/issues/74) 
+- [woah particles](https://observablehq.com/@rreusser/2d-n-body-gravity-with-poissons-equation) threejs slack random
+
+
 # Things I'm looking to research
 - Difference between pixel vs fragment
 - Draw calls
