@@ -8,7 +8,7 @@
 - [Bezier Curves and type design] - Not webDev but larning good practices for bezier curves sounds important.
 - [What are SMAA's search and area images](https://github.com/vanruesc/postprocessing/issues/74) 
 - [woah particles](https://observablehq.com/@rreusser/2d-n-body-gravity-with-poissons-equation) threejs slack random
-
+- https://observablehq.com/@grantcuster/understanding-scale-and-the-three-js-perspective-camera
 
 # Things I'm looking to research
 - Difference between pixel vs fragment
