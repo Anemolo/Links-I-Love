@@ -13,3 +13,4 @@
 # Things I'm looking to research
 - Difference between pixel vs fragment
 - Draw calls
+- Shader line issues https://codepen.io/Anemolo/pen/mddKoNm?editors=1010
