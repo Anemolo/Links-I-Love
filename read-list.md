@@ -9,7 +9,7 @@
 - [What are SMAA's search and area images](https://github.com/vanruesc/postprocessing/issues/74) 
 - [woah particles](https://observablehq.com/@rreusser/2d-n-body-gravity-with-poissons-equation) threejs slack random
 - https://observablehq.com/@grantcuster/understanding-scale-and-the-three-js-perspective-camera
-
+- [Screen space texures](https://www.ronja-tutorials.com/2019/01/20/screenspace-texture.html) - Apparently useful for creating this [cube](https://twitter.com/st8rmi/status/1172264128972492802), here's a [pen](https://codepen.io/marco_fugaro/pen/gOOwLeG?editors=0010)
 # Things I'm looking to research
 - Difference between pixel vs fragment
 - Draw calls
