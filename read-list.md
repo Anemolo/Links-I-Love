@@ -14,3 +14,4 @@
 - Difference between pixel vs fragment
 - Draw calls
 - Shader line issues https://codepen.io/Anemolo/pen/mddKoNm?editors=1010
+- Gifs have bad compression ratio? https://discourse.threejs.org/t/gif-as-animated-texture/1097/5
