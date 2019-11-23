@@ -26,7 +26,8 @@ Lots of links I tend to check and share.
 ## Computer Graphics
 -  [Computing normals for distorted vertices](https://observablehq.com/@k9/calculating-normals-for-distorted-vertices) - Lots of math jargon that went over my head. With the code at the bottom makes more sense. 
 
-
+## Javascript
+-  [What forces a layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - All the ways javascript code triggers the browser to recalculate the style and layout. Batch all of them together
 
 # More List of links I love 
 - [Matt's Graphic-Resources] - Game/gaphics. Lot's of old and broken links, lot's of amazing links
