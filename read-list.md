@@ -13,6 +13,9 @@
 - [https://bl.ocks.org/mbostock/dbb02448b0f93e4c82c3] - Evenly distribute points. Seems fun, I want to playu with distribution.
 - [Coordinate Systems](https://learnopengl.com/Getting-started/Coordinate-Systems) - Types of coordinate systems
 - [Basics of lightning](https://learnopengl.com/Lighting/Basic-Lighting) - Thats it. I should check out the full site in more detail
+- [Diffuse Lighting in WebGL](http://learnwebgl.brown37.net/09_lights/lights_diffuse.html) - Focused on webGL. Seems ancient. Worth for a deep look
+- [Basics of shading in openGL](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-8-basic-shading/) - Same thing as weGL, might be good to take a look at other tuts
+
 # Things I'm looking to research
 - Difference between pixel vs fragment
 - Draw calls
