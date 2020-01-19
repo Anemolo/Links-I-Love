@@ -29,6 +29,9 @@ Lots of links I tend to check and share.
 ## Javascript
 -  [What forces a layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - All the ways javascript code triggers the browser to recalculate the style and layout. Batch all of them together
 
+## CSS
+- [Why we use box-sizing:border-box](https://www.paulirish.com/2012/box-sizing-border-box-ftw/) - Make my div 200px wide, not less, not more.
+
 ## Other Topics
 - [Create a garden, not a block](https://joelhooks.com/digital-garden) - Focus on curation, not sorting.
 # More List of links I love 
