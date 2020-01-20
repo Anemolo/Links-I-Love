@@ -34,5 +34,6 @@ Lots of links I tend to check and share.
 
 ## Other Topics
 - [Create a garden, not a block](https://joelhooks.com/digital-garden) - Focus on curation, not sorting.
+- [Remote Working](https://joelhooks.com/remote-work) - Over comunicate when you are working remote. Check in with people, talk about what you are doing. Fking comunicate, and give context to what you say. 
 # More List of links I love 
 - [Matt's Graphic-Resources] - Game/gaphics. Lot's of old and broken links, lot's of amazing links
