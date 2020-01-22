@@ -31,6 +31,7 @@ Lots of links I tend to check and share.
 
 ## CSS
 - [Why we use box-sizing:border-box](https://www.paulirish.com/2012/box-sizing-border-box-ftw/) - Make my div 200px wide, not less, not more.
+- [In defense of Utility-first CSS](https://frontstuff.io/in-defense-of-utility-first-css) - Addressing all your concerns of Utility-first. Really good if you already know something about utility-first and BEM
 
 ## Other Topics
 - [Create a garden, not a block](https://joelhooks.com/digital-garden) - Focus on curation, not sorting.
