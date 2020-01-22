@@ -15,7 +15,6 @@
 - [Basics of lightning](https://learnopengl.com/Lighting/Basic-Lighting) - Thats it. I should check out the full site in more detail
 - [Diffuse Lighting in WebGL](http://learnwebgl.brown37.net/09_lights/lights_diffuse.html) - Focused on webGL. Seems ancient. Worth for a deep look
 - [Basics of shading in openGL](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-8-basic-shading/) - Same thing as weGL, might be good to take a look at other tuts
-- [In defebse if Utility](https://frontstuff.io/in-defense-of-utility-first-css) - A little bit of extra 
 - [React from scraft, and why react is great](https://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 
 # Things I'm looking to research
