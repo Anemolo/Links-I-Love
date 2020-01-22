@@ -16,6 +16,7 @@
 - [Diffuse Lighting in WebGL](http://learnwebgl.brown37.net/09_lights/lights_diffuse.html) - Focused on webGL. Seems ancient. Worth for a deep look
 - [Basics of shading in openGL](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-8-basic-shading/) - Same thing as weGL, might be good to take a look at other tuts
 - [React from scraft, and why react is great](https://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
+- [Separation of concerns and CSS](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) - Sounds like a really good recoomend.
 
 # Things I'm looking to research
 - Difference between pixel vs fragment
