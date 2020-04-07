@@ -1,6 +1,9 @@
 # Links I love <3
 Lots of links I tend to check and share.
 
+## Real-time graphics
+- [Screen-space outline](https://www.videopoetics.com/tutorials/pixel-perfect-outline-shaders-unity/) - Back-face + scaling isn't accurate enough.
+
 ## WebGL
 - [WebGL Explained](https://chriscourses.com/blog/beginners-guide-to-webgl) - What is webGL, how is it faster and practical uses. 
 - [Case Study: Red Bull's Airdrop](https://medium.com/epicagency/airdrop-technical-casestudy-bafabf2f8c1e) - Lot's of technical hoop jumping and problem solving to get an game into Facebook Instand Gamge. Sharing WebGL context (pixi & threeJS), inifinite worlds, post-processing mist.
