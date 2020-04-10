@@ -36,6 +36,9 @@ Lots of links I tend to check and share.
 - [Why we use box-sizing:border-box](https://www.paulirish.com/2012/box-sizing-border-box-ftw/) - Make my div 200px wide, not less, not more.
 - [In defense of Utility-first CSS](https://frontstuff.io/in-defense-of-utility-first-css) - Addressing all your concerns of Utility-first. Really good if you already know something about utility-first and BEM
 
+## Optimization
+- [Save kbs by removing unused letters from font](https://twitter.com/AriBenoist/status/1248645567967830016) - Super optimization when you know what characters you'll use
+
 ## Other Topics
 - [Create a garden, not a block](https://joelhooks.com/digital-garden) - Focus on curation, not sorting.
 - [Remote Working](https://joelhooks.com/remote-work) - Over comunicate when you are working remote. Check in with people, talk about what you are doing. Fking comunicate, and give context to what you say. 
